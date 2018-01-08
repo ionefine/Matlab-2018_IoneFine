@@ -12,4 +12,7 @@ frosted_scrambled = frosted;
 
 frosted_scrambled(9)='E';
 
+frosted_scrambled([6 13])=['F' 'X' ];
 disp(frosted_scrambled);
+
+ff=find('Frosted' == 'F')
