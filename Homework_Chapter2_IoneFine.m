@@ -4,7 +4,7 @@
 %DUE XXX
 
 
-I can't do this HELP !!!!!!!!!!!!!!!!!!!!!!!
+%% I think you will find it is fixed now
 % Make sure you do these in an m-file and not the command line since many of the questions build upon the answers to earlier questions.
 % your version of this m-file should be uploaded to your github account.
 % Then please email me the link to your github account
